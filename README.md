@@ -1,7 +1,7 @@
 # Guilherme Jussek Nogueira
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B45CFF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Back-end+Development;Python+%7C+C+%7C+Java;Always+Learning+and+Building" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=367BFF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Back-end+Development;Python+%7C+C+%7C+Java;Always+Learning+and+Building" alt="Apresentação animada" />
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@ Atualmente, estou desenvolvendo meus conhecimentos em programação, orientaçã
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-B45CFF?style=for-the-badge&labelColor=16121D" alt="SQL" />
-  <img src="https://img.shields.io/badge/POO-B45CFF?style=for-the-badge&labelColor=16121D" alt="POO" />
-  <img src="https://img.shields.io/badge/BACK--END-B45CFF?style=for-the-badge&labelColor=16121D" alt="Back-end" />
+  <img src="https://img.shields.io/badge/SQL-367BFF?style=for-the-badge&labelColor=252830" alt="SQL" />
+  <img src="https://img.shields.io/badge/POO-367BFF?style=for-the-badge&labelColor=252830" alt="POO" />
+  <img src="https://img.shields.io/badge/BACK--END-367BFF?style=for-the-badge&labelColor=252830" alt="Back-end" />
 </p>
 
 ## 03. PROJETOS
@@ -45,14 +45,14 @@ Projeto desenvolvido para praticar conceitos de programação e aplicar a lingua
 ## 04. GITHUB STATUS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fguilherme-jussek&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&labelColor=16121D&color=B45CFF" alt="Repositórios públicos" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fguilherme-jussek&query=%24.followers&label=FOLLOWERS&style=for-the-badge&labelColor=16121D&color=B45CFF" alt="Seguidores" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fguilherme-jussek&query=%24.following&label=FOLLOWING&style=for-the-badge&labelColor=16121D&color=B45CFF" alt="Seguindo" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fguilherme-jussek&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&labelColor=252830&color=367BFF" alt="Repositórios públicos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fguilherme-jussek&query=%24.followers&label=FOLLOWERS&style=for-the-badge&labelColor=252830&color=367BFF" alt="Seguidores" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fguilherme-jussek&query=%24.following&label=FOLLOWING&style=for-the-badge&labelColor=252830&color=367BFF" alt="Seguindo" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=guilherme-jussek&show_icons=true&hide_border=true&bg_color=09090D&title_color=B45CFF&icon_color=B45CFF&text_color=E6E6E6&rank_icon=github" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=guilherme-jussek&layout=compact&hide_border=true&bg_color=09090D&title_color=B45CFF&text_color=E6E6E6" height="180" alt="Linguagens mais utilizadas" />
+  <img src="https://github-stats-extended.vercel.app/api?username=guilherme-jussek&show_icons=true&hide_border=true&bg_color=09090D&title_color=367BFF&icon_color=C4CBD4&text_color=C4CBD4&rank_icon=github" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=guilherme-jussek&layout=compact&hide_border=true&bg_color=09090D&title_color=367BFF&text_color=C4CBD4" height="180" alt="Linguagens mais utilizadas" />
 </p>
 
 ## 05. FORMAÇÃO
@@ -70,10 +70,10 @@ Busco minha primeira oportunidade profissional na área de tecnologia, com foco 
 
 <p align="center">
   <a href="https://github.com/guilherme-jussek">
-    <img src="https://img.shields.io/badge/GITHUB-16121D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-252830?style=for-the-badge&logo=github&logoColor=C4CBD4" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/guilherme-jussek/">
-    <img src="https://img.shields.io/badge/LINKEDIN-B45CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16121D" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-367BFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=252830" alt="LinkedIn" />
   </a>
 </p>
 

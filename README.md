@@ -1,16 +1,82 @@
-## Hi there 👋
+# Guilherme Jussek Nogueira
 
-<!--
-**guilherme-jussek/guilherme-jussek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B45CFF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Back-end+Development;Python+%7C+C+%7C+Java;Always+Learning+and+Building" alt="Apresentação animada" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Estudante de Engenharia de Software | Desenvolvedor Back-end</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 01. SOBRE MIM
+
+Sou estudante de Engenharia de Software na Universidade Cidade de São Paulo (UNICID) e tenho interesse em desenvolvimento de software, principalmente na área Back-end.
+
+Atualmente, estou desenvolvendo meus conhecimentos em programação, orientação a objetos, bancos de dados e desenvolvimento de aplicações. Busco aprimorar minhas habilidades por meio de estudos, atividades acadêmicas e projetos práticos.
+
+## 02. TECNOLOGIAS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,git,github,vscode&theme=dark&perline=5" alt="Tecnologias" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-B45CFF?style=for-the-badge&labelColor=16121D" alt="SQL" />
+  <img src="https://img.shields.io/badge/POO-B45CFF?style=for-the-badge&labelColor=16121D" alt="POO" />
+  <img src="https://img.shields.io/badge/BACK--END-B45CFF?style=for-the-badge&labelColor=16121D" alt="Back-end" />
+</p>
+
+## 03. PROJETOS
+
+### Kallan | Projeto de Front-end
+
+Projeto acadêmico desenvolvido com o objetivo de criar um site para uma empresa real, utilizando HTML, CSS e JavaScript.
+
+[**ACESSAR REPOSITÓRIO →**](https://github.com/guilherme-jussek/kallan-projeto)
+
+### Projeto de Criptografia em C
+
+Projeto desenvolvido para praticar conceitos de programação e aplicar a linguagem C na implementação de criptografia.
+
+[**ACESSAR REPOSITÓRIO →**](https://github.com/guilherme-jussek/projeto_criptografia_C)
+
+## 04. GITHUB STATUS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fguilherme-jussek&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&labelColor=16121D&color=B45CFF" alt="Repositórios públicos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fguilherme-jussek&query=%24.followers&label=FOLLOWERS&style=for-the-badge&labelColor=16121D&color=B45CFF" alt="Seguidores" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fguilherme-jussek&query=%24.following&label=FOLLOWING&style=for-the-badge&labelColor=16121D&color=B45CFF" alt="Seguindo" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=guilherme-jussek&show_icons=true&hide_border=true&bg_color=09090D&title_color=B45CFF&icon_color=B45CFF&text_color=E6E6E6&rank_icon=github" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=guilherme-jussek&layout=compact&hide_border=true&bg_color=09090D&title_color=B45CFF&text_color=E6E6E6" height="180" alt="Linguagens mais utilizadas" />
+</p>
+
+## 05. FORMAÇÃO
+
+**Engenharia de Software**  
+Universidade Cidade de São Paulo (UNICID)
+
+## 06. OBJETIVO PROFISSIONAL
+
+Busco minha primeira oportunidade profissional na área de tecnologia, com foco em desenvolvimento Back-end. Tenho interesse em aprender continuamente, colaborar em projetos e desenvolver soluções que contribuam para minha evolução como profissional.
+
+---
+
+## CONTACT
+
+<p align="center">
+  <a href="https://github.com/guilherme-jussek">
+    <img src="https://img.shields.io/badge/GITHUB-16121D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-jussek/">
+    <img src="https://img.shields.io/badge/LINKEDIN-B45CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=16121D" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>BUILDING KNOWLEDGE. ONE PROJECT AT A TIME.</sub>
+</p>

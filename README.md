@@ -80,3 +80,18 @@ Busco minha primeira oportunidade profissional na área de tecnologia, com foco 
 <p align="center">
   <sub>BUILDING KNOWLEDGE. ONE PROJECT AT A TIME.</sub>
 </p>
+
+## 07. CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/guilherme-jussek/guilherme-jussek/output/github-snake-dark.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/guilherme-jussek/guilherme-jussek/output/github-snake.svg"
+    />
+  </picture>
+</p>
